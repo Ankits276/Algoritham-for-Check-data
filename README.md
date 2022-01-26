@@ -1,4 +1,4 @@
-# Algoritham-for-Check-data
+# Algoritham-for-Check-data type
 
 Step 1 :- Check if input item data type is null or undefined <br/>
 Step 1.1 :-If step 1 is truthy, return please enter currect value<br/>
